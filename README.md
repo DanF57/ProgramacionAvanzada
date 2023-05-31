@@ -1,8 +1,10 @@
 # ProgramacionAvanzada
 Cuarto Ciclo de Computacion
 ## Indice
-- [Básicos de JDBC](https://github.com/DanF57/ProgramacionAvanzada#semana-1) 
-- [Prepared Statements JDBC](#preparedstatementsjdbc) 
+- [Básicos de JDBC](https://github.com/DanF57/ProgramacionAvanzada#m%C3%A9todos-jdbc) 
+- [Prepared Statements JDBC](https://github.com/DanF57/ProgramacionAvanzada#prepared-statements-jdbc) 
+- [Taller Grupal JPA Vehiculos Registration](https://github.com/DanF57/ProgramacionAvanzada#taller-grupal-jpa-semana-3)
+- [Taller Grupal JPA Proyectos con Empleados](https://github.com/CienciasComputacion-UTPL/t32pa-grupo-pa-c-d-f/blob/main/src/main/java/ec/edu/utpl/computacion/pa/controller/ProyectsController.java)
 
 ## Semana 1
 ### Java Database Connectivity (JDBC)
