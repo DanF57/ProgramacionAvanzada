@@ -5,8 +5,9 @@ Cuarto Ciclo de Computacion
 - [Prepared Statements JDBC S2](https://github.com/DanF57/ProgramacionAvanzada#prepared-statements-jdbc) 
 - [Taller Grupal JPA Vehiculos Registration](https://github.com/DanF57/ProgramacionAvanzada#taller-grupal-jpa-semana-3)
 - [Taller Grupal JPA Proyectos con Empleados](https://github.com/CienciasComputacion-UTPL/t32pa-grupo-pa-c-d-f/blob/main/src/main/java/ec/edu/utpl/computacion/pa/controller/ProyectsController.java)
-- [Hilos Introduccion]()
+- [Hilos Introduccion](https://github.com/DanF57/ProgramacionAvanzada/tree/main/s4B1Clase/src/main/java/ec/edu/utpl)
 - [Taller Hilos TaskSets](https://github.com/CienciasComputacion-UTPL/ti1pa-DanF57/tree/main/s5pi1)
+- 
 
 ## Semana 1
 ### Java Database Connectivity (JDBC)
