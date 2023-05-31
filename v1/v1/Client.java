@@ -1,0 +1,1 @@
+public record Client(String name, int nroProducts) {}
