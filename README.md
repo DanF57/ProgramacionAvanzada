@@ -7,7 +7,7 @@ Cuarto Ciclo de Computacion
 - [Taller Grupal JPA Proyectos con Empleados](https://github.com/CienciasComputacion-UTPL/t32pa-grupo-pa-c-d-f/blob/main/src/main/java/ec/edu/utpl/computacion/pa/controller/ProyectsController.java)
 - [Hilos Introduccion](https://github.com/DanF57/ProgramacionAvanzada/tree/main/s4B1Clase/src/main/java/ec/edu/utpl)
 - [Taller Hilos TaskSets](https://github.com/CienciasComputacion-UTPL/ti1pa-DanF57/tree/main/s5pi1)
-- 
+- [Comparacion entre sin hilos o con hilos](https://github.com/DanF57/ProgramacionAvanzada/blob/main/v2/v2/TSuperMarket.java)
 
 ## Semana 1
 ### Java Database Connectivity (JDBC)
