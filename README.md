@@ -1,7 +1,7 @@
 # ProgramacionAvanzada
 Cuarto Ciclo de Computacion
 ## Indice
-- [Básicos de JDBC](#semana1) 
+- [Básicos de JDBC](https://github.com/DanF57/ProgramacionAvanzada#semana-1) 
 - [Prepared Statements JDBC](#preparedstatementsjdbc) 
 
 ## Semana 1
