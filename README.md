@@ -24,3 +24,6 @@ ResultSet rs = stat.executeQuery(sql)
 ```
 Buscar en maven repository el driver necesario
 
+Semana 2
+Conexion mediante JPA
+Clase ProyectsController
