@@ -8,7 +8,7 @@ Cuarto Ciclo de Computacion
 - [Hilos Introduccion](https://github.com/DanF57/ProgramacionAvanzada/tree/main/s4B1Clase/src/main/java/ec/edu/utpl)
 - [Taller Hilos TaskSets](https://github.com/CienciasComputacion-UTPL/ti1pa-DanF57/tree/main/s5pi1)
 - [Comparacion entre sin hilos o con hilos](https://github.com/DanF57/ProgramacionAvanzada/blob/main/v2/v2/TSuperMarket.java)
-- [Apache Zeppelin]() 
+- [Zeppelin Notebook Semana 9](https://8080-jorgaf-zeppelinpaavanza-qex1xbdydas.ws-us98.gitpod.io/#/notebook/2J1NESQRB) 
 # Bimestre 2
 ## Apache Zeppelin
 ### Introducción
@@ -35,7 +35,9 @@ Cuarto Ciclo de Computacion
 ### Gitpod
 - https://github.com/CienciasComputacion-UTPL/zeppelin-mysql-gitpod
 - cowsay
-- Ejecutar zeppelin cd
+- cd zeppelin
+- cd bin
+- ./zeppelin-daemon.sh start
 - Puerto 8080 zeppelin una vez instalado
 
 # Bimestre 1
@@ -48,6 +50,7 @@ Elementos basicos JDBC
 - Conexion
 - Sentencias --> Consulta(Select) - Actualizacion(insert, delete, update)
 - Resultados
+- Indice Link a Notebook semana9/Nro01
 
 ```java
 Connection con = DriverManager.geConnection(urlDB, "root", "");
