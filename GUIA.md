@@ -8,7 +8,37 @@ Cuarto Ciclo de Computacion
 - [Hilos Introduccion](https://github.com/DanF57/ProgramacionAvanzada/tree/main/s4B1Clase/src/main/java/ec/edu/utpl)
 - [Taller Hilos TaskSets](https://github.com/CienciasComputacion-UTPL/ti1pa-DanF57/tree/main/s5pi1)
 - [Comparacion entre sin hilos o con hilos](https://github.com/DanF57/ProgramacionAvanzada/blob/main/v2/v2/TSuperMarket.java)
+- [Apache Zeppelin]() 
+# Bimestre 2
+## Apache Zeppelin
+### Introducción
+- Herramienta Web centrada en la analítica interactiva de datos
+- Basado en el concepto de Notebook
+- Colaboración: usuarios y publicar párrafos (se copia una url que contiene el párrafo)
+- Soporta varios lenguajes (Spark, Scala, Python, R, SQL, etc.)
+- Spark hace todo el procesamiento, Zeppelin es la parte frontal
+- Cada párrafo de un notebook puede estar escrito en diferentes lenguajes, y se puede intercambiar data de un párrafo en un lenguaje a otro con otro lenguaje, también aplica para bases de datos
+- Extensiones Helium (Plug-ins)
+- https://zeppelin.apache.org/
+- Shift + Enter para ejecutar un párrafo
+- Cumplir con requisitos antes de la instalación
+### Pasos:
+- Requisitos: JDK 1.8- Scala 2.12 - Ubuntu 18.04 - Ubuntu 20.04 - Apache Spark 3.2.1 (Hadoop 3.2) (https://spark.apache.org/archives)
+- Descargar binarios (https://zeppelin.apache.org/download.html)
+- zeppelin-XX.XX.XX-bin-all.tgz
+- zeppelin-XX.XX.XX-bin-netinst.tgz
+- Descomprimir archivo descargado
+### Ejecución:
+- En el directorio ejecutar:
+- Arrancar: ./bin/zeppelin-daemon.sh start
+- Detener: ./bin/zeppelin-daemon.sh stop
+### Gitpod
+- https://github.com/CienciasComputacion-UTPL/zeppelin-mysql-gitpod
+- cowsay
+- Ejecutar zeppelin cd
+- Puerto 8080 zeppelin una vez instalado
 
+# Bimestre 1
 ## Semana 1
 ### Java Database Connectivity (JDBC)
 - API Java para interactuar con BBDD relacionales
