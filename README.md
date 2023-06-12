@@ -10,8 +10,8 @@ Cuarto Ciclo de Computacion
 - [Comparacion entre sin hilos o con hilos](https://github.com/DanF57/ProgramacionAvanzada/blob/main/v2/v2/TSuperMarket.java)
 - [Zeppelin Notebook Semana 9](https://8080-jorgaf-zeppelinpaavanza-qex1xbdydas.ws-us98.gitpod.io/#/notebook/2J1NESQRB) 
 # Bimestre 2
-## Apache Zeppelin
-### Introducción
+## Semana 1
+### Introducción a Apache Zeppelin
 - Herramienta Web centrada en la analítica interactiva de datos
 - Basado en el concepto de Notebook
 - Colaboración: usuarios y publicar párrafos (se copia una url que contiene el párrafo)
@@ -28,10 +28,6 @@ Cuarto Ciclo de Computacion
 - zeppelin-XX.XX.XX-bin-all.tgz
 - zeppelin-XX.XX.XX-bin-netinst.tgz
 - Descomprimir archivo descargado
-### Ejecución:
-- En el directorio ejecutar:
-- Arrancar: ./bin/zeppelin-daemon.sh start
-- Detener: ./bin/zeppelin-daemon.sh stop
 ### Gitpod
 - https://github.com/CienciasComputacion-UTPL/zeppelin-mysql-gitpod
 - cowsay
@@ -39,7 +35,26 @@ Cuarto Ciclo de Computacion
 - cd bin
 - ./zeppelin-daemon.sh start
 - Puerto 8080 zeppelin una vez instalado
-
+### Ejecución:
+- En el directorio ejecutar:
+- Arrancar: ./bin/zeppelin-daemon.sh start
+- Detener: ./bin/zeppelin-daemon.sh stop
+## Semana 2 
+### Computacion Distribuida y Big Data
+- Spark es el corazon, zeppelin es la parte frontal
+- Computacion Distribuida: Spark puede trabjar en Stand Alone o Distribuido
+- Un maestro y Nodos de procesamiento
+- Se le da las instrucciones al maestro
+- Spark ya se encarga de la manera en la que se envian todos los procesos
+```scala
+val NUM_SAMPLES = 100000
+val count = sc.parallelize(1 to NUM_SAMPLES).filter(_->
+    val x = math.random
+    val y = math.random
+    x*x + y*y < 1
+).count()
+printf("Pi is roughly %f\n", 4.0* count / NUM_SAMPLES)
+```
 # Bimestre 1
 ## Semana 1
 ### Java Database Connectivity (JDBC)
