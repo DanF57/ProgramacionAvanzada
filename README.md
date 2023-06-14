@@ -55,6 +55,7 @@ val count = sc.parallelize(1 to NUM_SAMPLES).filter(_->
 ).count()
 printf("Pi is roughly %f\n", 4.0* count / NUM_SAMPLES)
 ```
+- cARGAR UN DATAFRAME A PARTIR DE UN JSON, LO IMPORTANTE ES SABER SI ES UNILINEA (SEPARADOR ;) MULTILINEA(SEPARADOR ,)
 # Bimestre 1
 ## Semana 1
 ### Java Database Connectivity (JDBC)
